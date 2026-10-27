@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sika04126301188.github.io/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sika04126301188.github.io/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sika04126301188.github.io/blog/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sika04126301188.github.io/blog/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sika04126301188.github.io/blog/"/>
+  </url>
+  <url>
+    <loc>https://sika04126301188.github.io/blog/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sika04126301188.github.io/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sika04126301188.github.io/blog/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sika04126301188.github.io/blog/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sika04126301188.github.io/blog/"/>
+  </url>
+  <url>
+    <loc>https://sika04126301188.github.io/blog/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sika04126301188.github.io/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://sika04126301188.github.io/blog/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://sika04126301188.github.io/blog/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sika04126301188.github.io/blog/"/>
+  </url>
+</urlset>
